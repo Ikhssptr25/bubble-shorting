@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int arr[5]={7,11,8,1,10};
+	int arr[5]={6,11,8,1,10};
 	bool swapped;
 	int temp;
 	int indexOfLastUnsortedElement = 4;
